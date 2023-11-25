@@ -2,5 +2,7 @@
 Learn Node.js | Code Academy
 
 These are the exercises from Codecademy 
-[Learn Nodejs](https://www.codecademy.com/enrolled/courses/learn-node-js)
-[Learn Nodejs](https://www.codecademy.com/enrolled/courses/asynchronous-javascript)
+1. [Learn Nodejs](https://www.codecademy.com/enrolled/courses/learn-node-js)
+2. [Learn JavaScript: Asynchronous Programming](https://www.codecademy.com/enrolled/courses/asynchronous-javascript)
+
+
