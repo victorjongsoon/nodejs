@@ -33,6 +33,11 @@ const store = {
    });
   };
   
+  /**
+   * Process payment for an order using a gift card.
+   * @param {Array} responseArray - An array containing the order and total amount.
+   * @returns {Promise<Array>} - A promise that resolves to an array containing the order and tracking number if payment is successful, or rejects with an error message if payment fails.
+   */
   const processPayment = (responseArray) => {
     const order = responseArray[0];
     const total = responseArray[1];
