@@ -69,6 +69,12 @@ const shipOrder = (responseArray) => {
   });
 };
 
+/**
+ * Checks the availability of an item at a distributor.
+ * @param {string} itemName - The name of the item to check availability for.
+ * @param {string} distributorName - The name of the distributor to check availability from.
+ * @returns {Promise<string>} - A promise that resolves with the item name if it is in stock, or rejects with an error message if it is unavailable.
+ */
 const checkAvailability = (itemName, distributorName) => {
   console.log(`Checking availability of ${itemName} at ${distributorName}...`);
   return new Promise((resolve, reject) => {
