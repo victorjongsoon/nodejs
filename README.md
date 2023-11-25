@@ -1,5 +1,5 @@
 # nodejs
-Learn Node.js | Code Academy
+Track to learning Node.js
 
 These are the exercises from Codecademy 
 1. [Learn Nodejs](https://www.codecademy.com/enrolled/courses/learn-node-js)
