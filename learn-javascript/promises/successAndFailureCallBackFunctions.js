@@ -1,4 +1,4 @@
-const {checkInventory} = require('./library.js');
+const {checkInventory} = require('./library1.js');
 
 const order = [['sunglasses', 1], ['bags', 2]];
 
@@ -15,4 +15,5 @@ const handleFailure = (rejectionReason) => {
     console.log(rejectionReason);
 };
 
+// both sunglassses and bags are in stock, so the order is successful
 checkInventory(order).then(handleSuccess, handleFailure);
