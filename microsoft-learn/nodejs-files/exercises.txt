@@ -1,0 +1,4 @@
+Exercise 1 - Work with the file system
+Exercise 2 - Exercise - Work with paths
+Exercise 3 - Exercise - Create files and directories
+Exercise 4 - Exercise - Read and write to files
