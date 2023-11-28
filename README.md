@@ -13,7 +13,7 @@
     - [Node Clusters & Memory Optimizations](https://www.skillsoft.com/course/application-development-with-nodejs-node-clusters-memory-optimizations-9a994d70-6af5-11e8-981b-cd9e3ae019a4)
     - [Microservices](https://www.skillsoft.com/course/application-development-with-nodejs-microservices-b3ddfe40-6ee0-11e8-a814-671ad7cef381)
 
-## Sharing
+## Learning
 ### Real-time Applications with WebSocket and Node.js
 
 ![websocket](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/real-time-app/real-time-ex1/real-time-app.PNG)
