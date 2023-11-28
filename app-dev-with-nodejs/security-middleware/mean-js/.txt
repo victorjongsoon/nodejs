@@ -1,0 +1,10 @@
+## what is mean stack?
+The MEAN stack is a JavaScript-based framework for developing web applications.
+- MongoDB (M):
+    - NoSQL database used for storing data in MEAN Stack.
+- Express.js (E):
+    - Server-side framework for building applications in MEAN Stack.
+- Angular (A):
+    - Front-end framework providing capabilities for client-side user interfaces.
+- Node.js (N):
+    - Base component that supports and connects MongoDB, Express.js, and Angular.
