@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "name": "test-driven",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test data-test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
