@@ -1,0 +1,20 @@
+{
+    "customer1" : {
+        "name"  : "John",
+        "password" : "1234",
+        "profession" : "teacher",
+        "id": 1
+    },
+    "customer2" : {
+        "name"  : "Mark",
+        "password" : "1234",
+        "profession" : "librarian",
+        "id": 2
+    },
+    "customer3" : {
+        "name"  : "James",
+        "password" : "1234",
+        "profession" : "driver",
+        "id": 3
+    }
+}
