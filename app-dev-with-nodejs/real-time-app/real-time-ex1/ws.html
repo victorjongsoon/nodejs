@@ -1,0 +1,16 @@
+<div id = "currentTime"></div>
+
+<script>
+
+    var ws = new WebSocket('ws://localhost:40510');
+    ws.onopen = function() {
+        console.log('web socket is connected');
+        ws.send('connection is established');
+    };
+
+    ws.onmessage = function(message) {
+        console.log('message received: ' + message.data);
+        document.getElementById('currentTime').innerHTML = message.data; // update the div
+    };
+
+</script>
