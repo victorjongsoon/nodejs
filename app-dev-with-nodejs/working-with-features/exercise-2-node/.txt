@@ -1,0 +1,2 @@
+## Invokes the Node inspector for debugging activities.
+node --inspect-brk event.js
