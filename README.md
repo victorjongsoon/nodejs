@@ -21,6 +21,16 @@
 This is a simple example of implementing WebSocket communication using Node.js and Express. The current datetime is updating in real time.
 
 
+### Node.js Authentication with Github and Passport Demo
+
+[![Node.js Authentication](https://i3.ytimg.com/vi/n823WRjQqGE/maxresdefault.jpg)](https://youtu.be/n823WRjQqGE)
+
+- Setting up GitHub OAuth application
+- Integrating Passport.js for authentication
+- Session management and user serialization
+- Protecting routes with authentication
+
+
 
 
 
