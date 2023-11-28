@@ -1,0 +1,15 @@
+{
+  "name": "sample-3",
+  "version": "1.0.0",
+  "description": "This is a sample package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "victor",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^18.2.0"
+  }
+}
