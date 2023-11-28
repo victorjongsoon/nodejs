@@ -1,5 +1,0 @@
-## testing framework that can enable the use of describe and assertations
-npm install mocha
-
-## run the test
-npx mocha test data-test.js
