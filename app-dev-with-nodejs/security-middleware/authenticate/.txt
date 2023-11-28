@@ -1,0 +1,5 @@
+## Register a new OAuth application
+https://github.com/settings/applications/new
+
+## demo
+https://www.youtube.com/watch?v=n823WRjQqGE
