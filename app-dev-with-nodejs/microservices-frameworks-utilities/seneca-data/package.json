@@ -1,0 +1,17 @@
+{
+  "name": "seneca-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "seneca": "^3.33.0",
+    "seneca-basic": "^1.0.0",
+    "seneca-entity": "^25.1.0",
+    "seneca-mem-store": "^8.4.0"
+  }
+}
