@@ -55,6 +55,11 @@ This is a demo on the CRUD functions with Node.js and MongoDB.
 - Integration with MongoDB using Mongoose
 - RESTful API endpoints (data handling)
 
+### Mocha Test
+![mocha test](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/node-cluster-and-memory-optimizations/mocha-test/test-cases.PNG)
+- Set up Mocha test env
+
+
 
 
 
