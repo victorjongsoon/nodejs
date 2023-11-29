@@ -1,5 +1,8 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
+var browserSync = require('browser-sync').create();
+
+gulp.task('default', ['hello']);
 
 gulp.task('hello', function() {
   console.log('Hello Gulp!');
@@ -22,6 +25,12 @@ gulp.task('sass', function() {
         .pipe(sass())
         .pipe(gulp.dest('app/css'))
         .pipe(browserSync.reload({
-        stream: true
-    }));
+            stream: true
+        }));
 });
+
+// Add a watch task to monitor changes in your SCSS files
+gulp.task('watch', function() {
+    gulp.watch('app/scss/**/*.scss', ['sass']);
+});
+
