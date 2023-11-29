@@ -31,7 +31,19 @@ This is a simple example of implementing WebSocket communication using Node.js a
 - Protecting routes with authentication
 
 
+### Node.js and MongoDB CRUD
 
+#### Create a New Record
+![insert-one-record](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/modules-mean-stack-app/mongodb-crud/img/insert-one.PNG)
+
+#### Read All Records
+![find-all](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/modules-mean-stack-app/mongodb-crud/img/find-all.PNG)
+
+#### Update One Record
+![find-all](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/modules-mean-stack-app/mongodb-crud/img/update-one.PNG)
+
+#### Delete one Record
+![find-all](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/modules-mean-stack-app/mongodb-crud/img/delete-one.PNG)
 
 
 
