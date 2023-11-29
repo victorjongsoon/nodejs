@@ -1,0 +1,7 @@
+https://www.codecademy.com/content-items/26186e4aa2157b9d657a24aa1ad7a1c3
+
+## root 
+npm start server
+
+## view
+npm run start
