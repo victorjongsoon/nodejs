@@ -1,0 +1,12 @@
+## run
+npm test
+
+  Correct users returned
+
+    √ No error
+    √ Users as expected
+
+
+  total:     2
+  passing:   2
+  duration:  258ms
