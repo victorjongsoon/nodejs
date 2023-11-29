@@ -1,0 +1,5 @@
+## install gulp
+gulp -v
+
+CLI version
+Local version
