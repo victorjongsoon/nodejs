@@ -69,6 +69,8 @@ Using pm2 to start, control, or stop node processes
 - pm2 delete index.js
 - pm2 kill (kill all processes)
 
+### Codecademy - Expense Tracker React App
+![Codecademy - Expense Tracker React App](https://github.com/victorjongsoon/nodejs/blob/main/mvc-architecture/codeacedemy-react-expense-app.PNG)
 
 
 
