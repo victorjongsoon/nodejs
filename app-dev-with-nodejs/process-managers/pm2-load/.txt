@@ -1,0 +1,5 @@
+## start 2 instances
+pm2 start app.js -i 2
+
+## kill all instances
+pm2 kill
