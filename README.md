@@ -45,7 +45,15 @@ This is a simple example of implementing WebSocket communication using Node.js a
 #### Delete one Record
 ![find-all](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/modules-mean-stack-app/mongodb-crud/img/delete-one.PNG)
 
+### Node.js and MongoDB with HTTP
 
+[![Node.js-MongoDb-Htpp](https://i3.ytimg.com/vi/8oCMtddw18k/maxresdefault.jpg)](https://youtu.be/8oCMtddw18k)
+
+This is a short demo on (Create) function with Node.js and MongoDB with HTTP.
+
+- Express Server
+- Integration with MongoDB using Mongoose
+- RESTful API endpoints (data handling)
 
 
 
