@@ -59,6 +59,17 @@ This is a demo on the CRUD functions with Node.js and MongoDB.
 ![mocha test](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/node-cluster-and-memory-optimizations/mocha-test/test-cases.PNG)
 - Set up Mocha test env
 
+### PM2
+![pm2](https://github.com/victorjongsoon/nodejs/blob/main/app-dev-with-nodejs/microservices/pm2/pm2-console.PNG)
+Using pm2 to start, control, or stop node processes
+- pm2 start index.js (start a process)
+- pm2 restart index.js
+- pm2 reload index.js
+- pm2 stop index.js
+- pm2 delete index.js
+- pm2 kill (kill all processes)
+
+
 
 
 
