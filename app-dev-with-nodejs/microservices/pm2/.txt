@@ -1,0 +1,20 @@
+## install pm2
+npm install -g pm2
+
+## check the status of a process managed by PM2
+pm2 status index2.js
+
+## start node.js script
+pm2 start index2.js
+
+## display detailed information about a specific process managed by PM2
+pm2 show [id]
+
+## monitor all processes managed by PM2 in real-time through a dashboard
+pm2 monit
+
+## display the logs of all running processes managed by PM2
+pm2 log
+
+## terminate pm2
+pm2 stop index2.js
