@@ -3,3 +3,9 @@ gulp -v
 
 CLI version
 Local version
+
+## execute task script
+gulp scripts
+
+## execute watch
+gulp watch
